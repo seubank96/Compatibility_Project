@@ -53,9 +53,3 @@ Results are random but closely match the orignal above metrics.
 
 ---
 
-##  How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/romantic-ml-matches.git
-   cd romantic-ml-matches
