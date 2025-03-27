@@ -47,7 +47,7 @@ We combine multiple psychological and behavioral datasets and apply an XGBoost c
 - **F1 Score**: 0.51 (test), 0.85 (cross-validation)  
 - **Top Predictors**: Attractiveness, fun ratings, shared interests, personality clusters, and activity patterns
 
-See the full results and visualizations in the [Expo_2025_Poster_Sammy](./images/poster_final.png)
+See the full results and visualizations in the [Expo_2025_Poster_Sammy.pdf](https://github.com/user-attachments/files/19494288/Expo_2025_Poster_Sammy.pdf)
 
 Results are random but closely match the orignal above metrics.
 
